@@ -1,0 +1,11 @@
+Kontrolli sintaksor
+
+07_01_ttk_basic_widgets.py: OK
+07_02_combobox_spinbox_slider.py: OK
+07_03_notebook_progressbar.py: OK
+07_04_treeview.py: OK
+07_05_grid_basic.py: OK
+07_06_grid_resize_sticky.py: OK
+07_07_grid_text_scrollbar.py: OK
+07_08_frames.py: OK
+07_09_complete_demo.py: OK

@@ -1,0 +1,10 @@
+Kontrolli sintaksor i skedarëve Python
+
+06_01_foundation.py: OK
+06_02_labels.py: OK
+06_03_packer.py: OK
+06_04_buttons.py: OK
+06_05_check_and_radio.py: OK
+06_06_text_fields.py: OK
+06_07_text_with_scrollbar.py: OK
+06_08_complete_demo.py: OK
